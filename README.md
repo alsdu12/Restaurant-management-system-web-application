@@ -1,3 +1,2 @@
 # licenta
-Licenta Facultate ACIEE
 
